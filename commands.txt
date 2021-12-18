@@ -1,0 +1,8 @@
+commands for running flask on server
+
+- virtualenvironment venv
+- venv\Scripts\activate
+- pip show flask
+- pip3 install flask (if not available)
+- deactivate
+ 
